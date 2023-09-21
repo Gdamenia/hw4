@@ -1,0 +1,36 @@
+.body{
+    background-color: aqua;
+}
+
+input{
+    display: block;
+    width: 250px;
+    height: 30px;
+    
+}
+h1{
+    color: red;
+}
+
+.checkbox,
+.radio{
+    display: inline;
+    width: auto;
+    height: auto;
+}
+
+h2{
+    color: brown;
+}
+
+a{
+    font-size: large;
+    background-color: rgb(40, 174, 69);
+    color:black;
+}
+
+.submit{
+    background-color: blue;
+    width: auto;
+    color: white;
+}
